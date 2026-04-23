@@ -11,7 +11,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-whoisrosea-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/whoisrosea)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ivan%20Gursky-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ivan-gursky-14b8892a0)
 [![GitLab](https://img.shields.io/badge/GitLab-whoisrosea-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/whoisrosea)
-[![Instagram](https://img.shields.io/badge/Instagram-whoisrosea-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/whoisrosea)
+[![Instagram](https://img.shields.io/badge/Instagram-whoisrosea-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/gggrsk)
 
 </div>
 
@@ -88,16 +88,6 @@
   <img src="https://cdn.simpleicons.org/openzeppelin/4E5EE4" width="36" title="OpenZeppelin" />
   <img src="https://avatars.githubusercontent.com/u/56928858?s=48&v=4" width="36" title="The Graph" />
 </p>
-
----
-
-## `$ ls projects/`
-
-| Project | Stack | Description |
-|---------|-------|-------------|
-| **G-SKY** | Next.js, NestJS, MongoDB, Mapbox | Short-term rental platform · Minsk Mir |
-| **SourceLab** | Next.js, Web3 | Digital studio · sourcelab.by |
-| **Polymarket Bot** | TypeScript, Binance WS, CLOB | Signal & market-making bot for prediction markets |
 
 ---
 
